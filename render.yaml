@@ -5,7 +5,7 @@ services:
     env: docker
     dockerfilePath: Dockerfile
     repo: https://github.com/qmnb12/text-leech-bot
-    branch: main
+    branch: v1.2-GC
     autoDeploy: false
     envVars:
       - key: BOT_TOKEN
